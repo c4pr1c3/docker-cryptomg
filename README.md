@@ -10,4 +10,4 @@ This CTF was released by [Andrew Jordan](AJordan@trustwave.com) at (SpiderLabs A
 
 ## More information
 
-If you want you can check more information about the architeture of the app on the original `README.txt` file
+If you want you can check more information about the architecture of the app on the original `README.txt` file
