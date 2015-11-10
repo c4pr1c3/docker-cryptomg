@@ -1,6 +1,6 @@
 #CryptOMG
 
-This CTF was released by [Andrew Jordan](AJordan@trustwave.com) at (SpiderLabs Anterior)[blog.spiderlabs.com]
+This CTF was released by [Andrew Jordan](AJordan@trustwave.com) at [SpiderLabs Anterior](blog.spiderlabs.com)
 
 ## Running on Docker
 
