@@ -19,7 +19,7 @@ with this program. If not, see <http://www.gnu.org/licenses/>.
 */
 
 $db_host = "localhost";
-$db_user = "";
+$db_user = "admin";
 $db_pass = "";
 $db_name = "cryptomg";
 
