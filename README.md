@@ -4,9 +4,9 @@ This CTF was released by [Andrew Jordan](AJordan@trustwave.com) at (SpiderLabs A
 
 ## Running on Docker
 
-    docker build -t cryptoomg .
+    docker build -t cryptomg .
 
-    docker run -d -p 80:80 -p 3306:3306 cryptoomg
+    docker run -d -p 80:80 -p 3306:3306 cryptomg
 
 ## More information
 
